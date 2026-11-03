@@ -1,0 +1,41 @@
+ID;DATA;DEPARTAMENT;PRIORITAT;ESTAT;DESCRIPCIO
+INC-1001;2026-09-01;Sistemes;Alta;Resol incidència;Servidor principal reiniciat després d'una caiguda inesperada
+INC-1002;2026-09-01;Xarxa;Mitjana;Pendent;Retards intermitents en la connexió de la planta segona
+INC-1003;2026-09-02;Recursos Humans;Baixa;Resol incidència;Actualització de les dades de contacte d'un empleat
+INC-1004;2026-09-02;Sistemes;Crítica;Pendent;Error greu en la base de dades de producció
+INC-1005;2026-09-03;Comptabilitat;Alta;En curs;L'aplicació de facturació no genera els informes mensuals
+INC-1006;2026-09-03;Xarxa;Alta;Resol incidència;Substitució del router de la tercera planta
+INC-1007;2026-09-04;Atenció Client;Mitjana;Pendent;Alguns clients no reben els correus de confirmació
+INC-1008;2026-09-04;Sistemes;Baixa;Resol incidència;Actualització rutinària del programari del servidor
+INC-1009;2026-09-05;Logística;Alta;En curs;Retard en la sincronització de l'estoc del magatzem
+INC-1010;2026-09-05;Comptabilitat;Crítica;Resol incidència;Error en el càlcul de l'import de diverses factures
+INC-1011;2026-09-06;Xarxa;Mitjana;Pendent;Senyal Wi-Fi feble a les sales de reunions
+INC-1012;2026-09-06;Recursos Humans;Alta;En curs;Recuperació d'un document esborrat accidentalment
+INC-1013;2026-09-07;Sistemes;Crítica;Pendent;Servidor de còpies de seguretat sense espai disponible
+INC-1014;2026-09-07;Atenció Client;Baixa;Resol incidència;Sol·licitud de canvi de contrasenya d'un usuari
+INC-1015;2026-09-08;Logística;Mitjana;Resol incidència;Desajust entre les existències reals i les registrades
+INC-1016;2026-09-08;Comptabilitat;Alta;Pendent;Revisió de permisos per accedir als informes financers
+INC-1017;2026-09-09;Xarxa;Crítica;En curs;Caiguda de la connexió principal entre edificis
+INC-1018;2026-09-09;Sistemes;Mitjana;Resol incidència;Migració d'un servei intern a un servidor nou
+INC-1019;2026-09-10;Recursos Humans;Baixa;Pendent;Error de format en una plantilla de vacances
+INC-1020;2026-09-10;Atenció Client;Alta;Resol incidència;Restauració de l'accés al portal de clients
+INC-1021;2026-09-11;Logística;Crítica;Pendent;Fallada de la integració entre magatzem i facturació
+INC-1022;2026-09-11;Sistemes;Alta;En curs;Revisió de les alertes de seguretat del servidor
+INC-1023;2026-09-12;Comptabilitat;Baixa;Resol incidència;Correcció d'una etiqueta en un informe de despeses
+INC-1024;2026-09-12;Xarxa;Mitjana;Resol incidència;Reconfiguració dels punts d'accés sense fil
+INC-1025;2026-09-13;Atenció Client;Crítica;Pendent;Interrupció del servei de consultes en línia
+INC-1026;2026-09-13;Recursos Humans;Mitjana;En curs;Actualització del registre de formació del personal
+INC-1027;2026-09-14;Sistemes;Alta;Resol incidència;Restauració de fitxers a partir de la còpia de seguretat
+INC-1028;2026-09-14;Logística;Baixa;Pendent;Revisió de l'etiquetatge dels paquets retornats
+INC-1029;2026-09-15;Comptabilitat;Crítica;En curs;Error de connexió amb el sistema bancari
+INC-1030;2026-09-15;Xarxa;Alta;Pendent;Senyal de xarxa inestable al departament de comptabilitat
+INC-1031;2026-09-16;Sistemes;Mitjana;Resol incidència;Actualització del sistema operatiu dels equips
+INC-1032;2026-09-16;Atenció Client;Alta;En curs;Recuperació de converses perdudes al sistema d'atenció
+INC-1033;2026-09-17;Recursos Humans;Crítica;Pendent;Accés no autoritzat a dades personals
+INC-1034;2026-09-17;Logística;Alta;Resol incidència;Reparació de la impressora d'etiquetes del magatzem
+INC-1035;2026-09-18;Comptabilitat;Mitjana;Pendent;Revisió de les regles d'arrodoniment de les factures
+INC-1036;2026-09-18;Xarxa;Baixa;Resol incidència;Substitució d'un cable de xarxa defectuós
+INC-1037;2026-09-19;Sistemes;Crítica;Resol incidència;Recuperació del servei després d'una fallada de disc
+INC-1038;2026-09-19;Atenció Client;Mitjana;Pendent;Retard en les respostes automàtiques als clients
+INC-1039;2026-09-20;Logística;Alta;En curs;Sincronització incorrecta de les dades de repartiment
+INC-1040;2026-09-20;Recursos Humans;Baixa;Resol incidència;Arxiu de documentació antiga del personal
